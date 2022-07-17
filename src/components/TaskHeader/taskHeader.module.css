@@ -1,3 +1,15 @@
 .taskHeader {
   /* Sample */
+  background-color: #aa167e;
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.b {
+  margin: 10px;
+  font-size: 14px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
